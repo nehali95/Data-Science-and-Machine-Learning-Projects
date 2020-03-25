@@ -35,3 +35,5 @@ this loan?
 ### Problem Statement -
 In this challenge, we need to identify which customers will make a specific transaction in
 the future, irrespective of the amount of money transacted.
+
+### The data is taken from kaggle which includes train & test data. Click on the link to access the dataset https://www.kaggle.com/c/santander-customer-transaction-prediction/data
