@@ -53,3 +53,6 @@ Gradient Boosting Classifier
 Random Forest model with grid-search
 Random Forest on a holdout test set
 
+# 4. Color Detection project
+Here , mission is to idetentifying colors in one by clicking on that color part. Here, I am trying to exposed Opencv part for raeding and applying some functions on image. User can give path of image while runing a python file from comand prompt like here ' python color_detection.py -i colorpic.img' after that image will open and then double click on any part of color image this will relplies with color. 
+here I used pre defined color.csv file for color identification.
