@@ -37,3 +37,19 @@ In this challenge, we need to identify which customers will make a specific tran
 the future, irrespective of the amount of money transacted.
 
 ### The data is taken from kaggle which includes train & test data. Click on the link to access the dataset https://www.kaggle.com/c/santander-customer-transaction-prediction/data
+
+# 3.NLP 
+### Background -
+Missinon is to find Spam and Ham massages and apply that techniques to test data with best accuracy. t's binary classification problem. There no missing values.
+
+### Technique used -
+##### Pre-processing techniques - Tokanization, punctuation remove, steaming , remove stopewords
+##### Vectorizing Raw Data: TF-IDF
+TF-IDF Creates a document-term matrix where the columns represent single unique terms (unigrams) but the cell represents a weighting meant to represent how important a word is to a document. For making unstructured data to structured format.
+##### Feature engineering transformation - adding two new features
+##### Applied classification algorithms
+Random forest classifier
+Gradient Boosting Classifier
+Random Forest model with grid-search
+Random Forest on a holdout test set
+
